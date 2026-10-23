@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 
-<p><em>Tech Lead at <a href="https://studiovisual.com.br" target="_blank">Studio Visual</a></em></p>
+<p><em>Co-Founder at <a href="https://versionzero.games/" target="_blank">Version Zero</a></em></p>
 
 [![Linkedin: Lorde Aleister](https://img.shields.io/badge/-Lorde%20Aleister-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagopapile/)](https://www.linkedin.com/in/tiagopapile/)
 [![Behance: Lorde Aleister](https://img.shields.io/badge/-Lorde%20Aleister-blue?style=flat-square&logo=Behance&logoColor=white&link=https://behance.net/lordealeister/)](https://behance.net/lordealeister/)
